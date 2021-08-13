@@ -1,6 +1,6 @@
 # CCNA-Notes
 
-- [OSI and TCP/IP Model](#)
+- [OSI and TCP/IP Model](#osi-and-tcpip-model)
 - [System of numbers](#system-of-numbers)
 
 ## OSI and TCP/IP Model

@@ -1,5 +1,7 @@
 # CCNA-Notes
 
+- [System of numbers](#)
+
 ## System of numbers
 
 ![binary](https://user-images.githubusercontent.com/3635470/129386551-927c2f1a-2f11-4d2c-96bd-c4b8ab480f92.png)

@@ -7,6 +7,8 @@
 
 ![OSI_vs_TCP:IP](https://user-images.githubusercontent.com/3635470/129393273-00382e7d-bb59-4e9e-bf62-fe2354191927.png)
 
+![devices_and_protocols](https://user-images.githubusercontent.com/3635470/129393473-2982685b-3b8a-4bb5-96b9-664db4d5cc87.png)
+
 ## System of numbers
 
 ![binary](https://user-images.githubusercontent.com/3635470/129386551-927c2f1a-2f11-4d2c-96bd-c4b8ab480f92.png)

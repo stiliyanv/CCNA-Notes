@@ -1,6 +1,6 @@
 # CCNA-Notes
 
-- [System of numbers](#)
+- [System of numbers](#system-of-numbers)
 
 ## System of numbers
 

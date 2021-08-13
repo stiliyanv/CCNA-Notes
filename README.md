@@ -1,6 +1,11 @@
 # CCNA-Notes
 
+- [OSI and TCP/IP Model](#)
 - [System of numbers](#system-of-numbers)
+
+## OSI and TCP/IP Model
+
+![OSI_vs_TCP:IP](https://user-images.githubusercontent.com/3635470/129393273-00382e7d-bb59-4e9e-bf62-fe2354191927.png)
 
 ## System of numbers
 

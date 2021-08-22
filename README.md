@@ -1,7 +1,11 @@
 # CCNA-Notes
 
+- [[Udemy] Cisco CCNA 200-301 Exam: Complete Course with practical labs](#)
+
 - [OSI and TCP/IP Model](#osi-and-tcpip-model)
 - [System of numbers](#system-of-numbers)
+
+## TODO
 
 ## OSI and TCP/IP Model
 

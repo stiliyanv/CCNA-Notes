@@ -1,15 +1,9 @@
 # CCNA-Notes
 
-- [[Udemy] Cisco CCNA 200-301 Exam: Complete Course with practical labs](#udemy-cisco-ccna-200-301-exam-complete-course-with-practical-labs)
+- [[Udemy] Cisco CCNA 200-301 Exam: Complete Course with practical labs](udemy/cisco_ccna_200_301_exam/content.md)
 
 - [OSI and TCP/IP Model](#osi-and-tcpip-model)
 - [System of numbers](#system-of-numbers)
-
-## [Udemy] Cisco CCNA 200-301 Exam: Complete Course with practical labs
-
-#### 7. IP Addressing
-
-TODO
 
 ## OSI and TCP/IP Model
 

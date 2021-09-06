@@ -22,4 +22,4 @@
 | Device | Command  | Description |
 |--------|----------|-------------|
 | Switch |   |   |
-| Router |   |   |
+| Router | `show ip int brief` | list interfaces |
